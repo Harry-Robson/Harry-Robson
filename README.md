@@ -1,0 +1,1 @@
+Hello, I'm a freelance software developer working on workflow automation and backend web3 interactions. I mainly work with Python but I'm also learning Rust. If you'd like to collaborate on any projects give me a message!
