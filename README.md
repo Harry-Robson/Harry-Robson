@@ -1,4 +1,4 @@
-## Hello, I'm a freelance software developer working on workflow automation and backend web3 interactions. I mainly work use Python but I'm also learning Rust. If you'd like to collaborate on any projects give me a message!
+## I'm a freelance software developer building on and around web3. I mainly use Python but I'm also learning Rust. 
 
 ### Some of the services I provide in the crypto sector:
 * Creation and airdropping of SPL tokens
