@@ -1,4 +1,4 @@
-## I'm a freelance software developer building on and around web3. I mainly use Python but I'm also learning Rust. 
+## I'm a freelance software developer building on and around web3. I mainly use Python but I'm also working with some Rust. 
 
 ### Some of the services I provide in the crypto sector:
 * Creation and airdropping of SPL tokens
